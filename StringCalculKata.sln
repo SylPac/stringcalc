@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCalculKata", "StringCalculKata\StringCalculKata.csproj", "{DBDA79BC-8A1D-4410-B82A-D8B95D8ECBAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBDA79BC-8A1D-4410-B82A-D8B95D8ECBAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBDA79BC-8A1D-4410-B82A-D8B95D8ECBAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBDA79BC-8A1D-4410-B82A-D8B95D8ECBAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBDA79BC-8A1D-4410-B82A-D8B95D8ECBAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF7ABEFE-E42B-455D-AA02-05043BD01655}
+	EndGlobalSection
+EndGlobal
